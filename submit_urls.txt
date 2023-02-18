@@ -1,3 +1,4 @@
+https://www.zhouweitong.site/post/035-novelai-webui-docker-image/
 https://www.zhouweitong.site/post/033-algorithm-stack/
 https://www.zhouweitong.site/post/034-linux-windows-tricks-04/
 https://www.zhouweitong.site/post/030-algorithm-outline/
@@ -7,4 +8,3 @@ https://www.zhouweitong.site/post/029-cmu-csapp-note-1/
 https://www.zhouweitong.site/post/028-c-programming-gaps-filling/
 https://www.zhouweitong.site/post/027-cmu-cg-note-1/
 https://www.zhouweitong.site/post/021-synthv-plugin-intro/
-https://www.zhouweitong.site/post/020-asus-c302-linux-installation/

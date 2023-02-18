@@ -1,3 +1,4 @@
+https://www.zhouweitong.site/post/035-novelai-webui-docker-image/
 https://www.zhouweitong.site/blogrol/index.html
 https://www.zhouweitong.site/about/index.html
 https://www.zhouweitong.site/post/033-algorithm-stack/
@@ -49,6 +50,7 @@ https://www.zhouweitong.site/tags/CSAPP/
 https://www.zhouweitong.site/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/
 https://www.zhouweitong.site/tags/%E7%AE%97%E6%B3%95/
 https://www.zhouweitong.site/tags/%E8%BD%AF%E4%BB%B6/
+https://www.zhouweitong.site/tags/AI%E7%BB%98%E7%94%BB/
 https://www.zhouweitong.site/categories/%E6%9D%82%E8%B0%88/
 https://www.zhouweitong.site/categories/%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/
 https://www.zhouweitong.site/categories/%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2/
